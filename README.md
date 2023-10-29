@@ -1,6 +1,6 @@
 # Jogo da cobrinha com pygame
 
-<img src="https://images.app.goo.gl"/>
+<img src="https://www.google.com/imgres?imgurl=https://66834339e2.cbaul-cdnwnd.com/339381e87955a0addba108242c13cc6e/200000051-265c627573/eeb924ed86a73c11529795e5050ff49f.png&tbnid=QPtybIOW7bBdsM&vet=1&imgrefurl=https://expo-future.webnode.page/news/snake-rewind-e-o-novo-jogo-da-cobrinha-que-sera-lancado-para-smartphones/&docid=6OJRQJBOPucWCM&w=1024&h=1024&hl=pt-BR&source=sh/x/im/m6/4&shem=uvafe2"/>
 
 Este é um jogo da cobrinha clássico implementado em Python usando a biblioteca Pygame. A cobrinha é controlada pelo jogador e deve se mover pela tela para comer a comida e crescer, evitando colidir com as paredes ou com o próprio corpo.
 
