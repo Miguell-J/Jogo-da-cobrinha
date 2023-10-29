@@ -7,7 +7,10 @@ Este é um jogo da cobrinha clássico implementado em Python usando a biblioteca
 ### Pré-requisitos
 Antes de executar o jogo, você precisa ter o Python instalado em seu sistema, bem como a biblioteca Pygame. Você pode instalá-lo usando o pip:
 
-- $pip install pygame
+```
+pip install pygame
+```
+
 
 ## Como Jogar
 
